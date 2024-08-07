@@ -97,6 +97,7 @@ output {
     background-image: url(../img/hdr.jpg);
     background-size: contain;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 
